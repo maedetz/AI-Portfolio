@@ -1,2 +1,2 @@
 # AI-Portfolio
-A collection of my AI projects, including deep learning models, computer vision applications, and machine learning experiments
+"Brain tumor detection in MRI images using AI-based algorithms. This project focuses on identifying tumors and classifying their types using deep learning techniques."
